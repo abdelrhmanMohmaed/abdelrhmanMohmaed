@@ -8,10 +8,12 @@
 
 ###
 
-<h1 align="center">hey 👋, I'm Abdelrahman Mohamed</h1>
+<h1 align="center">Hey 👋, I'm Abdelrahman Mohamed</h1>
 
 ###
+<p align="center">A Junior Full-Stack developer From Egypt</p>
 
+###
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
