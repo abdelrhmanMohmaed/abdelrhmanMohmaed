@@ -10,7 +10,8 @@
 <div align="center">
   <img height="300" width="1000" src="https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1701302400&semt=ais"  />
 </div>
-###
+
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
