@@ -15,6 +15,7 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
+
 ###
 <p align="left">-🧑‍💻I’m working as a Software Developer<br>- 📚 I'm currently learning about machine learning, DevOps, and deep learning techniques to expand my skill set and delve deeper into artificial intelligence applications.<br>- ⚡ In my free time I enjoy exploring new technologies, contributing to open-source projects, and honing my programming skills through personal projects.</p>
 
