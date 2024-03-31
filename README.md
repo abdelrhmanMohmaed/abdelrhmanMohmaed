@@ -1,21 +1,15 @@
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/abdelrahman-mohamed-902a28201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-<div align="center">
-  <img height="300" width="1000" src="https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1701302400&semt=ais"  />
-</div>
-###
-
 <h1 align="center">Hey 👋, I'm Abdelrahman Mohamed</h1>
 
 ###
 <h3 align="center">A Junior Full-Stack developer From Egypt</h3>
 
+
+
+<div align="center">
+  <img height="300" width="1000" src="https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1701302400&semt=ais"  />
+</div>
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -84,6 +78,12 @@
 
 ###
 
+<div align="center">
+  <a href="www.linkedin.com/in/abdelrahman-mohamed-902a28201" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdelrhmanMohmaed/count.svg?"  />
 </div>
