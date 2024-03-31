@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4832.jpg"  />
+  <img height="150"  width="120" src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4832.jpg"  />
 </div>
 
 ###
